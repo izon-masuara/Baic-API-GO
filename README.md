@@ -15,7 +15,7 @@ OUTPUT
     go version go1.13.8 linux/amd64
 ```
 
-Step by step to test the application
+Step by step to use this application
 
 + clone application 
 ```
